@@ -8,23 +8,23 @@ scipy==1.2.1
 ##### Machine Learning packages
 scikit-learn==0.22.2
 Keras==2.2.4
-tensorflow==1.13.1
-tensorboard==1.13.1
+tensorflow==2.10.0
+tensorboard==2.10.0
 # If you have a TF-compatible GPU and you want to enable GPU support, then
 # replace tensorflow with tensorflow-gpu.
 
 ##### Statistics packages
-statsmodels==0.9.0
+statsmodels==0.13.0
 
 ##### Data Download packages
-pandas-datareader==0.7.0
+pandas-datareader==0.10.0
 Quandl==3.4.8
 xlrd==1.2.0
-yfinance==0.1.50
+yfinance==0.2.18
 
 ##### Additional Visualization packages
-plotly==3.10.0
-seaborn==0.9.0
+plotly==5.10.0
+seaborn==0.12.0
 
 #The following additional packages are also used in the case studies. 
 #However, the following packages are commented as the installation is time taking and they will be installed from the jupyter notebook of the case studies. 
