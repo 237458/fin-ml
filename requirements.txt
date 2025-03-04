@@ -14,7 +14,7 @@ tensorboard==2.10.0
 # replace tensorflow with tensorflow-gpu.
 
 ##### Statistics packages
-statsmodels==0.13.0
+statsmodels==0.14.0
 
 ##### Data Download packages
 pandas-datareader==0.10.0
