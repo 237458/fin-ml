@@ -11,7 +11,7 @@ scipy==1.7.3
 
 ##### Machine Learning packages
 scikit-learn==1.0.2
-Keras==2.2.4
+Keras==2.10.0
 tensorflow==2.10.0
 tensorboard==2.10.0
 # If you have a TF-compatible GPU and you want to enable GPU support, then
